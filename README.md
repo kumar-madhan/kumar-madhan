@@ -1,73 +1,114 @@
-﻿# Hi 👋 I'm a DevOps Engineer
+﻿<h1 align="center">Hi 👋 I'm a DevSecOps Engineer</h1>
 
-DevSecOps Engineer with **4+ years of industry experience**, specializing in **middleware administration, cloud infrastructure, and automation**.  
-Experienced in designing, building, and operating **secure, scalable DevOps platforms** for enterprise applications.
+<p align="center">
+DevSecOps Engineer with <b>4+ years of enterprise experience</b> specializing in
+<b>Cloud Infrastructure, Middleware Administration, and Automation</b>.
+</p>
 
----
+<hr/>
 
-## 🧑‍💻 Professional Summary
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- DevSecOps Engineer with strong background in **WebLogic Administration**
-- Hands-on experience with **AWS Cloud infrastructure**
-- Expertise in **infrastructure automation and CI/CD pipelines**
-- Proven experience working across **complex middleware and DevOps ecosystems**
-- Strong focus on **reliability, security, and operational excellence**
+<h3>🧑‍💻 About Me</h3>
 
----
+<p>
+I am a DevSecOps Engineer with hands-on experience in designing, building,
+and maintaining <b>secure, scalable, and highly available DevOps platforms</b>.
+</p>
 
-## 🛠️ Core Skills & Technologies
+<p>
+My background includes extensive work as a <b>WebLogic Administrator</b>,
+supporting enterprise middleware stacks and integrating them into
+modern CI/CD and cloud environments.
+</p>
 
-### Cloud & Infrastructure
-- AWS (EC2, VPC, IAM, Load Balancing, Storage)
-- Infrastructure as Code (Terraform)
-- Configuration Management (Ansible)
+<p>
+I have worked across multiple projects involving <b>complex DevOps
+infrastructure setups</b>, focusing on automation, reliability,
+and operational excellence.
+</p>
 
-### DevOps & Automation
-- CI/CD Pipelines (Jenkins)
-- Containerization (Docker)
-- Shell Scripting & Automation
-- Git-based workflows
+<h3>🎯 Professional Focus</h3>
+<ul>
+  <li>End-to-end DevSecOps pipeline design</li>
+  <li>Infrastructure automation and standardization</li>
+  <li>Middleware administration and support</li>
+  <li>Cloud-native and hybrid architectures</li>
+  <li>Security-first DevOps practices</li>
+</ul>
 
-### Middleware & Platforms
-- Oracle WebLogic Server
-- Experience across multiple Middleware stacks
-- Deployment, monitoring, and troubleshooting of enterprise applications
+</td>
 
-### DevSecOps Practices
-- Secure pipeline design
-- Environment hardening
-- Automation-first approach
-- Operational monitoring & stability
+<td width="50%" valign="top">
 
----
+<h3>🛠️ Skills & Expertise</h3>
 
-## 🏗️ What I Work On
+<h4>☁️ Cloud & Infrastructure</h4>
+<ul>
+  <li>AWS (EC2, VPC, IAM, Load Balancing, Storage)</li>
+  <li>Infrastructure as Code – Terraform</li>
+  <li>Configuration Management – Ansible</li>
+</ul>
 
-- Designing and maintaining **end-to-end DevOps infrastructure**
-- Automating application build, test, and deployment pipelines
-- Supporting large-scale middleware platforms
-- Implementing cloud-native and hybrid architectures
-- Improving reliability, security, and deployment efficiency
+<h4>⚙️ DevOps & Automation</h4>
+<ul>
+  <li>CI/CD Pipelines – Jenkins</li>
+  <li>Containerization – Docker</li>
+  <li>Shell Scripting & Automation</li>
+  <li>Git-based workflows</li>
+</ul>
 
----
+<h4>🧱 Middleware & Platforms</h4>
+<ul>
+  <li>Oracle WebLogic Server</li>
+  <li>Enterprise Middleware Stack Support</li>
+  <li>Application Deployment & Troubleshooting</li>
+</ul>
 
-## 📈 Engineering Mindset
+<h4>🔐 DevSecOps Practices</h4>
+<ul>
+  <li>Secure pipeline design</li>
+  <li>Environment hardening</li>
+  <li>Access & credential management</li>
+  <li>Operational monitoring & stability</li>
+</ul>
 
-- Strong believer in **automation over manual operations**
-- Focused on **scalable, repeatable, and secure solutions**
-- Comfortable working in **complex enterprise environments**
-- Continuous learning and improvement mindset
+</td>
+</tr>
+</table>
 
----
+<hr/>
 
-## 📫 Let's Connect
+<h3>🏗️ What I Work On</h3>
+<ul>
+  <li>Designing and maintaining <b>enterprise-grade DevOps infrastructure</b></li>
+  <li>Automating build, deployment, and release processes</li>
+  <li>Managing and supporting middleware platforms</li>
+  <li>Improving system reliability, security, and performance</li>
+  <li>Reducing manual operations through automation</li>
+</ul>
 
-- GitHub: https://github.com/<your-username>
-- LinkedIn: (optional)
+<hr/>
 
----
+<h3>📈 Engineering Mindset</h3>
+<ul>
+  <li>Automation over manual processes</li>
+  <li>Security built into every stage</li>
+  <li>Scalable and repeatable solutions</li>
+  <li>Strong ownership and accountability</li>
+  <li>Continuous learning and improvement</li>
+</ul>
 
-> ⚙️ Building reliable systems.  
-> 🔐 Securing pipelines.  
-> 🚀 Automating everything.
+<hr/>
 
+<h3>📫 Connect</h3>
+<ul>
+  <li>GitHub: https://github.com/&lt;your-username&gt;</li>
+  <li>LinkedIn: (optional)</li>
+</ul>
+
+<p align="center">
+<b>🔐 Secure by Design &nbsp;|&nbsp; ⚙️ Automated by Default &nbsp;|&nbsp; 🚀 Built for Scale</b>
+</p>
