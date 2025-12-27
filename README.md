@@ -87,7 +87,7 @@ and operational excellence.
 
 <h3>🏗️ What I Work On</h3>
 <ul>
-  <li>Designing and maintaining enterprise-grade DevOps infrastructure</b></li>
+  <li>Designing and maintaining <b>enterprise-grade DevOps infrastructure</b></li>
   <li>Automating build, deployment, and release pipelines</li>
   <li>Managing and supporting middleware platforms</li>
   <li>Improving system reliability, security, and performance</li>
