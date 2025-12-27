@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋 I'm a DevSecOps Engineer</h1>
+﻿<h1 align="center">Hi 👋 I'm a DevOps+Cloud Engineer</h1>
 
 <p align="center">
 DevSecOps Engineer with <b>4+ years of enterprise experience</b> specializing in
@@ -81,16 +81,22 @@ and operational excellence.
 
 <hr/>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 <h3>🏗️ What I Work On</h3>
 <ul>
   <li>Designing and maintaining <b>enterprise-grade DevOps infrastructure</b></li>
-  <li>Automating build, deployment, and release processes</li>
+  <li>Automating build, deployment, and release pipelines</li>
   <li>Managing and supporting middleware platforms</li>
   <li>Improving system reliability, security, and performance</li>
-  <li>Reducing manual operations through automation</li>
+  <li>Eliminating manual operations through automation</li>
 </ul>
 
-<hr/>
+</td>
+
+<td width="50%" valign="top">
 
 <h3>📈 Engineering Mindset</h3>
 <ul>
@@ -101,13 +107,30 @@ and operational excellence.
   <li>Continuous learning and improvement</li>
 </ul>
 
+</td>
+</tr>
+</table>
+
+<hr/>
+
 <hr/>
 
 <h3>📫 Connect</h3>
 <ul>
-  <li>GitHub: https://github.com/&lt;your-username&gt;</li>
-  <li>LinkedIn: (optional)</li>
+  <li>
+    GitHub:
+    <a href="https://github.com/kumar-madhan" target="_blank">
+      github.com/kumar-madhan
+    </a>
+  </li>
+  <li>
+    LinkedIn:
+    <a href="linkedin.com/in/madhan-kumar-716094233" target="_blank">
+      linkedin.com/madhan-kumar
+    </a>
+  </li>
 </ul>
+
 
 <p align="center">
 <b>🔐 Secure by Design &nbsp;|&nbsp; ⚙️ Automated by Default &nbsp;|&nbsp; 🚀 Built for Scale</b>
