@@ -113,8 +113,6 @@ and operational excellence.
 
 <hr/>
 
-<hr/>
-
 <h3>📫 Connect</h3>
 <ul>
   <li>
